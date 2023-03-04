@@ -52,9 +52,9 @@ int	keyhook(int keycode, t_app *app)
 		}
 	}
 	if (keycode == 97)
-		app->speed < 15000 ? app->speed += 1000 : 2000;
+		app->speed < 25000 ? app->speed += 1000 : 2000;
 	if (keycode == 100)
-		app->speed > 2000 ? app->speed -= 1000 : 2000;
+		app->speed > 1000 ? app->speed -= 1000 : 2000;
 	if (keycode == 32)
 		app->stop = !app->stop;
 }
