@@ -1,0 +1,15 @@
+{
+	"files.associations": {
+		"header.h": "c",
+		"time.h": "c",
+		"algorithm": "c",
+		"unistd.h": "c",
+		"stdio.h": "c",
+		"mlx.h": "c",
+		"fcntl.h": "c",
+		"string.h": "c",
+		"stdlib.h": "c",
+		"stdbool.h": "c",
+		"minilibx.h": "c"
+	}
+}
