@@ -8,6 +8,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <stdbool.h>
+
 #define WINDOW_X 1920
 #define WINDOW_Y 1080
 
